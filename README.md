@@ -22,17 +22,14 @@ Then continue with the flow of the action after that.
 
 ## Features
 
-1. Tell the current event happening at DevExpo 2.0.
+1. Tell the next events scheduled by DSC KIIT.
 
-2. List the complete event schedule for DevExpo 2.0.
+2. List the past events of DSC KIIT.
 
-3. Details of all the guest speakers at DevExpo 2.0.
+3. A about us page explaining what's the role of a DSC.
 
-4. Fun Scavenger Hunt Game to keep you engaged.
-
-5. Filled with many small and detailed Easter Eggs. 
+4. Contact channels of DSC KIIT.
  
-N.B. Solving an Easter Egg or completing the Scavenger Hunt gives you a chance to win awesome goodies.
 
 ## Sample Screenshots
 
