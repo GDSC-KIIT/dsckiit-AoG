@@ -36,7 +36,7 @@ N.B. Solving an Easter Egg or completing the Scavenger Hunt gives you a chance t
 
 ## Sample Screenshots
 
-<img src="/screenshots/main-menu.jpg?raw=true" alt="Main Menu" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/about.jpg?raw=true" alt="About" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/easter-egg.jpg?raw=true" alt="Easter Egg" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/speakers.jpg?raw=true" alt="Speakers" style="float: left; margin-right: 20px;" width='200' border="2" /> 
+<img src="/screenshots/main-menu.jpg?raw=true" alt="Main Menu" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/about.jpg?raw=true" alt="About" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/past-events.jpg?raw=true" alt="Past Events" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/contact.jpg?raw=true" alt="Contact" style="float: left; margin-right: 20px;" width='200' border="2" /> 
 
 
 ## License
