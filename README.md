@@ -37,7 +37,7 @@ Then continue with the flow of the action after that.
 
 
 ## License
-![](https://img.shields.io/github/license/DSC-KIIT/DevExpo-AoG)
+![](https://img.shields.io/github/license/DSC-KIIT/dsckiit-AoG)
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
