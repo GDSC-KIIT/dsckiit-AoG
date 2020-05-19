@@ -18,7 +18,7 @@ or
 
 Just click on the link: [DSC KIIT](https://assistant.google.com/services/invoke/uid/0000006c15659a07)
 
-Just continue with the flow of the action after that.
+Then continue with the flow of the action after that.
 
 ## Features
 
